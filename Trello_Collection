@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Create a bord",
+			"name": "My First Collection",
 			"event": [
 				{
 					"listen": "prerequest",
